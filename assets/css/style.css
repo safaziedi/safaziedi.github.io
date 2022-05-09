@@ -1018,3 +1018,40 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button.btn1 {
+    font-size: 12px;
+    margin: 2rem 0 0 0;
+    font-family: var(--font);
+    font-weight: 400;
+    padding: 1.3rem;
+    color: #ffffff;
+    background-color: transparent;
+    font-weight: 500;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 30px #35e888;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+}
+
+
+
+
+
